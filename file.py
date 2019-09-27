@@ -5,4 +5,5 @@ def func(x):
 	return x
 func(3)
 exit()
+print('bla')
 
